@@ -65,3 +65,6 @@
   <li>Celio Dantas Lino Junior</li>
   <li>Daphine Pereira da Gloria Coelho</li>
 </ul>
+
+<hr>
+<p>👉 <a href="https://codedbydaph.github.io/friv.com">Clique aqui para acessar a versão hospedada no GitHub Pages</a></p>
