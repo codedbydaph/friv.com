@@ -1,6 +1,6 @@
 <h1>🎮 Recriação da Home do Friv</h1>
 
-<p>Este projeto foi desenvolvido como parte de uma atividade acadêmica com o objetivo de <strong>recriar a página inicial de um site real</strong> — no caso, o <strong>Friv</strong>, famoso portal de jogos online.</p>
+<p>Este projeto foi desenvolvido como parte de uma atividade acadêmica com o objetivo de <strong>recriar a página inicial de um site real</strong> no caso, o <strong>Friv</strong>, famoso portal de jogos online.</p>
 
 <p>A proposta exigia o uso exclusivo de <strong>HTML e CSS puro</strong>, sem dependência de JavaScript ou frameworks, aplicando <strong>estrutura semântica, responsividade e boas práticas de acessibilidade</strong>.</p>
 
@@ -11,7 +11,7 @@
   <li>Recriar a <strong>home</strong> de um site real de referência.</li>
   <li>Aplicar <strong>HTML semântico</strong> (landmarks, headings, atributos alt, etc.).</li>
   <li>Implementar um layout <strong>responsivo (mobile-first)</strong> usando Flexbox, Grid e media queries.</li>
-  <li>Garantir <strong>boas práticas de acessibilidade</strong>, como foco visível, contraste adequado e link "pular para o conteúdo".</li>
+  <li>Garantir <strong>boas práticas de acessibilidade</strong>, como foco visível e contraste adequado.</li>
   <li>Seguir princípios de <strong>design estático</strong>: tipografia, cores, espaçamentos e hierarquia visual.</li>
 </ul>
 
@@ -43,8 +43,7 @@
   <li>Texto alternativo (<code>alt</code>) em todas as imagens.</li>
   <li>Contraste mínimo entre texto e fundo.</li>
   <li>Foco visível em links e botões.</li>
-  <li>Link <strong>"Pular para o conteúdo principal"</strong> para navegação via teclado.</li>
-  <li>Hierarquia de títulos corrigida, com <strong>h1 único</strong>.</li>
+  <li>Hierarquia de títulos.</li>
 </ul>
 
 <hr>
@@ -66,3 +65,6 @@
   <li>Celio Dantas Lino Junior</li>
   <li>Daphine Pereira da Gloria Coelho</li>
 </ul>
+
+<hr>
+<p>👉 <a href="https://codedbydaph.github.io/friv.com">Clique aqui para acessar a versão hospedada no GitHub Pages</a></p>
