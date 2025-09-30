@@ -1,6 +1,6 @@
 <h1>🎮 Recriação da Home do Friv</h1>
 
-<p>Este projeto foi desenvolvido como parte de uma atividade acadêmica com o objetivo de <strong>recriar a página inicial de um site real</strong> — no caso, o <strong>Friv</strong>, famoso portal de jogos online.</p>
+<p>Este projeto foi desenvolvido como parte de uma atividade acadêmica com o objetivo de <strong>recriar a página inicial de um site real</strong> no caso, o <strong>Friv</strong>, famoso portal de jogos online.</p>
 
 <p>A proposta exigia o uso exclusivo de <strong>HTML e CSS puro</strong>, sem dependência de JavaScript ou frameworks, aplicando <strong>estrutura semântica, responsividade e boas práticas de acessibilidade</strong>.</p>
 
