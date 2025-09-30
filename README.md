@@ -1,4 +1,3 @@
-# Friv Jogos
 <h1>🎮 Recriação da Home do Friv</h1>
 
 <p>Este projeto foi desenvolvido como parte de uma atividade acadêmica com o objetivo de <strong>recriar a página inicial de um site real</strong> — no caso, o <strong>Friv</strong>, famoso portal de jogos online.</p>
