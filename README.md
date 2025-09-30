@@ -43,7 +43,6 @@
   <li>Texto alternativo (<code>alt</code>) em todas as imagens.</li>
   <li>Contraste mínimo entre texto e fundo.</li>
   <li>Foco visível em links e botões.</li>
-  <li>Link <strong>"Pular para o conteúdo principal"</strong> para navegação via teclado.</li>
   <li>Hierarquia de títulos corrigida, com <strong>h1 único</strong>.</li>
 </ul>
 
