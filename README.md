@@ -11,7 +11,7 @@
   <li>Recriar a <strong>home</strong> de um site real de referência.</li>
   <li>Aplicar <strong>HTML semântico</strong> (landmarks, headings, atributos alt, etc.).</li>
   <li>Implementar um layout <strong>responsivo (mobile-first)</strong> usando Flexbox, Grid e media queries.</li>
-  <li>Garantir <strong>boas práticas de acessibilidade</strong>, como foco visível, contraste adequado e link "pular para o conteúdo".</li>
+  <li>Garantir <strong>boas práticas de acessibilidade</strong>, como foco visível e contraste adequado.</li>
   <li>Seguir princípios de <strong>design estático</strong>: tipografia, cores, espaçamentos e hierarquia visual.</li>
 </ul>
 
